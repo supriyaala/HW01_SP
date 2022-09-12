@@ -1,0 +1,27 @@
+# HW-1: Submission
+
+## Lab purpose:
+Write a program TO
+1) How many different degrees do we have? Display their names.
+2) What is the full name of the 3 students who have the highest GPA? If we have multiple, 
+print them all.
+3) What are the average credit hours of the college?
+4) What is the average GPA of the students whose department is Computer Science?
+5) Display the list of departments along with the total number of advisors. 
+For ex:
+Computer Science: 7
+Biology: 9
+
+##Directory:
+HW01
+
+## To compile:
+gcc - o HW1 HW1.c
+
+## To execute:
+./HW1
+
+##credits:
+https://www.youtube.com/watch?v=gJgXnAYPfh0
+https://www.youtube.com/watch?v=e6MxeC7htSE
+https://www.tutorialspoint.com/find-the-largest-three-elements-in-an-array-in-cplusplus
